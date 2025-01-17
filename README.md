@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">🎓 Sobre Mim:</h2>
+<h2 align="left">🎓 Sobre Mim:</h2>
 
 ###
 
